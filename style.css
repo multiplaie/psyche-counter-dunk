@@ -1,0 +1,47 @@
+#screen {
+    margin: 0;
+    font-family: "Open Sans", comic-sans;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    
+}
+
+#screen > .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+   
+#screen  .container .score{
+    width: 50%;
+    height: 50vh;
+    font-size: 5.75em;
+    font-weight: bolder;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+#screen .container .success{
+    background: greenyellow;
+    color: rgb(255, 255, 255);
+}
+
+#screen .container .fail{
+    background: rgb(255, 47, 47);
+    color: rgb(255, 255, 255);
+}
+
+#screen .container .total{
+    width: 100%;
+}
+
+
+
+   
