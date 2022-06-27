@@ -1,5 +1,6 @@
 html, body{
     margin: 0;
+    background-color: #3a444d;
 }
 
 #screen {
@@ -9,7 +10,7 @@ html, body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    color: #61707d;
+    color: #f5fbef;
     
 }
 
@@ -34,13 +35,11 @@ html, body{
 }
 
 #screen .container .success{
-    background: #40f99b;
-    color: #f5fbef;
+    color: #40f99b;
 }
 
 #screen .container .fail{
-    background: #e85d75;
-    color: #f5fbef;
+    color: #e85d75;
 }
 
 #screen .container .total{
