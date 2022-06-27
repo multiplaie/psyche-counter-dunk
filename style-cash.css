@@ -1,0 +1,66 @@
+html, body{
+    margin: 0;
+    background-color: #40f99b;
+}
+
+#screen {
+    margin: 0;
+    font-family: "Open Sans", comic-sans;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    color: #f5fbef;
+    
+}
+
+#screen > .container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+   
+#screen  .container .score{
+    width: 50%;
+    height: 50vh;
+    font-size: 5.75em;
+    font-weight: bolder;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+#screen .container .cash{
+    width: 100%;
+}
+
+#screen .buttons .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+#screen .buttons{
+    width: 100%;
+}
+
+#screen .buttons .button{
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 2.5em;
+    cursor: pointer;
+    border: #f5fbef 2px solid;
+    border-radius: 10px;
+}
+
+#screen .buttons .button:hover{
+    background-color: #61707d;
+}
+   
