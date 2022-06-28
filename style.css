@@ -9,7 +9,8 @@ html, body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    color: #61707d;
+    color: white;
+    background-color: black;
     
 }
 
@@ -23,8 +24,8 @@ html, body{
    
 #screen  .container .score{
     width: 50%;
-    height: 50vh;
-    font-size: 5.75em;
+    height: 30vh;
+    font-size: 8em;
     font-weight: bolder;
     text-align: center;
     display: flex;
@@ -34,17 +35,18 @@ html, body{
 }
 
 #screen .container .success{
-    background: #40f99b;
-    color: #f5fbef;
+    background: rgb(1, 77, 1);
+    color: white;
 }
 
 #screen .container .fail{
-    background: #e85d75;
-    color: #f5fbef;
+    background: red;
+    color: white;
 }
 
 #screen .container .total{
     width: 100%;
+    height: 70vh;
 }
 
 

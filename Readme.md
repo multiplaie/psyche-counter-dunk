@@ -30,13 +30,13 @@ Commande d'utilisation:
 
 # Modifs
 ## index
-- fond noir au lieu de blanc
-- augmenté taille police de 200% de tout le texte 
-- ajouté des espaces entre le / et 1000
-- reduire la hauteur des encart vert et rouge
-- ecriture rouge pure
-- le vert pure et plus foncé
-- inversé les commande de a et z puis w et x
+- fond noir au lieu de blanc -
+- augmenté taille police de 200% de tout le texte  -
+- ajouté des espaces entre le / et 1000 -
+- reduire la hauteur des encart vert et rouge -
+- ecriture rouge pure -
+- le vert pure et plus foncé -
+- inversé les commande de a et z puis w et x -
 
 ## cash
 - fond noir pure
