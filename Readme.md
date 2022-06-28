@@ -25,3 +25,20 @@ Commande d'utilisation:
 - la touche "x" permet de reduire la somme de 10
 - la touche "c" permet de reduire la somme de 25
 - la touche "v" permet de reduire la somme de 100
+
+---
+
+# Modifs
+## index
+- fond noir au lieu de blanc
+- augmenté taille police de 200% de tout le texte 
+- ajouté des espaces entre le / et 1000
+- reduire la hauteur des encart vert et rouge
+- ecriture rouge pure
+- le vert pure et plus foncé
+- inversé les commande de a et z puis w et x
+
+## cash
+- fond noir pure
+- augmenter les taille du texte
+- le gros montant, ajouter €
