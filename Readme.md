@@ -39,6 +39,6 @@ Commande d'utilisation:
 - inversé les commande de a et z puis w et x -
 
 ## cash
-- fond noir pure
-- augmenter les taille du texte
-- le gros montant, ajouter €
+- fond noir pure - 
+- augmenter les taille du texte -
+- le gros montant, ajouter € -

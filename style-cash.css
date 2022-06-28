@@ -1,6 +1,6 @@
 html, body{
     margin: 0;
-    background-color: #40f99b;
+    background-color: #000;
 }
 
 #screen {
@@ -10,7 +10,7 @@ html, body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    color: #f5fbef;
+    color: #fff;
     
 }
 
@@ -24,8 +24,8 @@ html, body{
    
 #screen  .container .score{
     width: 50%;
-    height: 50vh;
-    font-size: 5.75em;
+    height: 70vh;
+    font-size: 20em;
     font-weight: bolder;
     text-align: center;
     display: flex;
@@ -47,16 +47,16 @@ html, body{
 
 #screen .buttons{
     width: 100%;
+    height: 30vh;
 }
 
 #screen .buttons .button{
     width: 20%;
-    height: 50px;
     text-align: center;
     vertical-align: middle;
-    font-size: 2.5em;
+    font-size: 5em;
     cursor: pointer;
-    border: #f5fbef 2px solid;
+    border: #fff 2px solid;
     border-radius: 10px;
 }
 
