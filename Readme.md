@@ -28,7 +28,7 @@ Commande d'utilisation:
 
 ---
 
-# Modifs
+# Modifs du 28/06/2022
 ## index
 - fond noir au lieu de blanc -
 - augmenté taille police de 200% de tout le texte  -
